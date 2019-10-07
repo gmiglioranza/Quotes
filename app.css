@@ -1,0 +1,32 @@
+body {
+	width: 60vw;
+	margin-left: 20%;
+	margin-top: 50px;
+	background-image: url(https://thumbs.dreamstime.com/b/raw-paper-texture-background-60435577.jpg);
+	font-weight: bold;
+	padding: 30px;
+	border: 5px solid #7c0a02 ;
+}
+
+h4 {
+	font-family: "noto sans";
+	text-transform: uppercase;
+	color: #e25822;
+
+
+}
+
+h2 {
+	font-family: "dosis";
+	font-style: italic;
+}
+
+p {
+	font-family: "Raleway";
+
+}
+
+p:first-of-type {
+	border-left: 2px solid grey;
+	padding-left: 6px;
+}
